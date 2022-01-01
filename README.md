@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik Garcia</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🌱 I’m currently learning **ReactJs, NextJS, Python**
+- 🌱 I’m currently learning **ReactJs, NextJS, NodeJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
